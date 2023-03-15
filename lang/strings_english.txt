@@ -1,0 +1,24 @@
+<?php
+
+// config section
+$s_plugin_FieldMan_plugin_format_title = "Mantis Mandatory Fields";
+$s_plugin_FieldMan_plugin_format_config = "Configuration";
+$s_plugin_FieldMan_plugin_check_category = "Check categories";
+$s_plugin_FieldMan_plugin_standard_fields = "Include standard fields";
+$s_plugin_FieldMan_plugin_custom_fields = "Include custom fields";
+$s_plugin_FieldMan_plugin_format_enabled = "On";
+$s_plugin_FieldMan_plugin_format_disabled = "Off";
+$s_plugin_FieldMan_plugin_fm_manage = "Manage Mandatory Fields";
+$s_plugin_FieldMan_plugin_fm_defined = "Defined Mandatory fields";
+
+$s_plugin_FieldMan_plugin_fm_add = "Add Mandatory field";
+$s_plugin_FieldMan_plugin_fm_project_not_found = "Unknown project";
+$s_plugin_FieldMan_plugin_fm_categgory_not_found = "Unknown category";
+$s_plugin_FieldMan_plugin_fm_category_all = "All categories";
+$s_plugin_FieldMan_plugin_fm_delete = "Remove Definition";
+$s_plugin_FieldMan_plugin_fm_update = "Update Definition";
+$s_plugin_FieldMan_plugin_remove_definition="Remove Mandatory Field definition";
+$s_plugin_FieldMan_plugin_add_definition="Add Mandatory Field definition";
+$s_plugin_FieldMan_plugin_fm_back = "Previous page";
+$MANTIS_ERROR['ERROR_FM_EMPTY'] = 'Mandatory field is empty : '; 
+$MANTIS_ERROR['ERROR_FM_NOFIELDS'] = 'No Fields configured, please adjust Config.'; 
