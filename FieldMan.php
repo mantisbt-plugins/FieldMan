@@ -7,9 +7,9 @@ class FieldManPlugin extends MantisPlugin {
 		$this->version      = '2.0.2';
 		$this->requires     = array('MantisCore'       => '2.0.0',);
 		$this->author       = 'Cas Nuy';
-		$this->contact		= 'Cas-at-nuy.info';
-		$this->url  	    = 'http://www.nuy.info';
-		$this->page			= 'config';
+		$this->contact	    = 'Cas-at-nuy.info';
+		$this->url  	    = 'https://github.com/mantisbt-plugins/FieldMan';
+		$this->page	    = 'config';
 	}
  
 	function init() { 
