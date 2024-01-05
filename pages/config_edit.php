@@ -9,4 +9,4 @@ plugin_config_set('standard_fields'			, $f_standard_fields);
 plugin_config_set('custom_fields'			, $f_custom_fields);
 
 
-print_successful_redirect( plugin_page( 'config',TRUE ) );
+print_header_redirect( plugin_page( 'config',TRUE ) );
