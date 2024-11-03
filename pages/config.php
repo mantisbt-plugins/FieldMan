@@ -19,7 +19,7 @@ print_manage_menu( 'manage_plugin_page.php' );
 <div class="widget-header widget-header-small">
 	<h4 class="widget-title lighter">
 		<i class="ace-icon fa fa-text-width"></i>
-		<?php echo plugin_lang_get( 'plugin_format_title' ) . ': ' . lang_get( 'plugin_format_config' )?>
+		<?php echo plugin_lang_get( 'plugin_format_title' ) . ': ' . plugin_lang_get( 'config' )?>
 	</h4>
 </div>
 <div class="widget-body">

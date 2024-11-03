@@ -10,7 +10,7 @@ $s_plugin_FieldMan_plugin_format_enabled = "On";
 $s_plugin_FieldMan_plugin_format_disabled = "Off";
 $s_plugin_FieldMan_plugin_fm_manage = "Manage Mandatory Fields";
 $s_plugin_FieldMan_plugin_fm_defined = "Defined Mandatory fields";
-
+$s_plugin_FieldMan_config = "Configuration";
 $s_plugin_FieldMan_plugin_fm_add = "Add Mandatory field";
 $s_plugin_FieldMan_plugin_fm_project_not_found = "Unknown project";
 $s_plugin_FieldMan_plugin_fm_categgory_not_found = "Unknown category";
